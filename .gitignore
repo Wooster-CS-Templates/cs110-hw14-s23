@@ -292,5 +292,6 @@ tests-out/
 !/tests-*/*.a
 
 # executables
-pointer-parameters
+pointer_parameters
+test
 a.out
